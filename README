@@ -1,0 +1,11 @@
+Sample for grading:
+Input sequences are going to be mel.txt and psd.txt.
+Substitution matrix is subs.txt
+Gap penalty: -2.
+
+Result that your code should produce: mel-psd-aln.txt.
+
+To obtain this result:
+1. Go to http://www.bioinformatics.org/sms2/pairwise_align_dna.html
+2. Enter the two sequences.
+3. Enter match = 2, mismatch = -1, gap = -2.
